@@ -15,4 +15,4 @@
 7.Write a script that restart file after change (In the file package.json in the "scripts" , add "dev": "nodemon index.js" (now you can write (npm run dev) in the terminal to automatically restart the server when there are changes in the code))
 
 Open API: https://swapi.dev/
-Postman: https://web.postman.co/workspace/My-Workspace~86522664-bc0c-45e6-8d36-19643785f5ac/collection/24022711-e996c7ba-5c11-415a-b6db-08a229eb5758?ctx=documentation
+Postman: https://red-shadow-520642.postman.co/workspace/My-Workspace~86522664-bc0c-45e6-8d36-19643785f5ac/collection/24022711-a0a2742b-061f-4544-b3e8-9ca8bd0f115a?action=share&creator=24022711
